@@ -1,0 +1,12 @@
+name: RedstoneProtect
+description: Stop water accidents destroying your redstone builds.
+version: '${version}'
+
+main: org.cel20.redstoneProtect.RedstoneProtect
+
+api-version: '1.21.11'
+load: POSTWORLD
+
+folia-supported: true
+
+authors: [ cel20 ]
